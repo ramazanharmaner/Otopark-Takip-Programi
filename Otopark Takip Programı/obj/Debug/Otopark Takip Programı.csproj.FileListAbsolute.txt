@@ -1,0 +1,11 @@
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\bin\Debug\Otopark Takip Programı.exe.config
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\bin\Debug\Otopark Takip Programı.exe
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\bin\Debug\Otopark Takip Programı.pdb
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark_Takip_Programı.Form1.resources
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark_Takip_Programı.Properties.Resources.resources
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark Takip Programı.csproj.GenerateResource.Cache
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark Takip Programı.exe
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark Takip Programı.pdb
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark Takip Programı.csprojResolveAssemblyReference.cache
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark_Takip_Programı.AracBilgileriForm.resources
+c:\users\harmony\documents\visual studio 2012\Projects\Otopark Takip Programı\Otopark Takip Programı\obj\Debug\Otopark_Takip_Programı.AracYerleri.resources
